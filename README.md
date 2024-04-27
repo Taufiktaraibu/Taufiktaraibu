@@ -51,3 +51,17 @@
 🏢 Find me on LinkedIn ➡︎ [moh taufik taraibu](https://www.linkedin.com/in/moh-taufiq-taraibu-57694a269/)
 
 📲 Connect with me on IG ➡︎ [@tfk_traibu050702](https://www.instagram.com/tfk_traibu050702/)
+
+
+### certificate
+
+![alt text](https://github.com/Taufiktaraibu/My_Certificate/blob/main/certificate/Business%20Analytics%20with%20Excel_page-0001.jpg?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
