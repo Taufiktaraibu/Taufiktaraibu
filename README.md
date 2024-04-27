@@ -45,23 +45,25 @@
 <br />
 <br />
 
----
+
+### certificate
+
+![alt text](https://github.com/Taufiktaraibu/My_Certificate/blob/main/certificate/Business%20Analytics%20with%20Excel_page-0001.jpg?raw=true)
+![alt text](https://github.com/Taufiktaraibu/My_Certificate/blob/main/certificate/Data%20Visualization%20with%20Tableau_page-0001.jpg?raw=true)
+![alt text](https://github.com/Taufiktaraibu/My_Certificate/blob/main/certificate/Programming%20for%20Everybody.jpg?raw=true)
+![alt text](https://github.com/Taufiktaraibu/My_Certificate/blob/main/certificate/Python%20Data%20Structures.jpg?raw=true)
+![alt text](https://github.com/Taufiktaraibu/My_Certificate/blob/main/certificate/SQL%20for%20Data%20Science.jpg?raw=true)
+![alt text](https://github.com/Taufiktaraibu/My_Certificate/blob/main/certificate/database%20and%20sql%20data%20science%20with%20python.jpg?raw=true)
+![alt text](https://github.com/Taufiktaraibu/My_Certificate/blob/main/certificate/inferential%20statistical.jpg?raw=true)
+![alt text](https://github.com/Taufiktaraibu/My_Certificate/blob/main/certificate/pyhton%20for%20data%20science%20and%20ai.jpg?raw=true)
+![alt text](https://github.com/Taufiktaraibu/My_Certificate/blob/main/certificate/sertifikat%20Google%20data%20analyst.jpg?raw=true)
+![alt text](https://github.com/Taufiktaraibu/My_Certificate/blob/main/certificate/5924891.jpg?raw=true)
+
+-----------
+
 ### Connect with me:
 
 🏢 Find me on LinkedIn ➡︎ [moh taufik taraibu](https://www.linkedin.com/in/moh-taufiq-taraibu-57694a269/)
 
 📲 Connect with me on IG ➡︎ [@tfk_traibu050702](https://www.instagram.com/tfk_traibu050702/)
 
-
-### certificate
-
-![alt text](https://github.com/Taufiktaraibu/My_Certificate/blob/main/certificate/Business%20Analytics%20with%20Excel_page-0001.jpg?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
